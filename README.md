@@ -1,4 +1,4 @@
-# parkinn
+# Parkinn
 
 <p align="center">Pequeno e simples projeto para controlar o fluxo de veículos de pequenos estacionamentos.</p>
 
@@ -6,7 +6,7 @@
 	🚧 Não finalizado...  🚧
 </h4>
 
-### Features
+### Funcionalidades
 
 - [x] Controle de veículos
 - [x] Tabelas de Preço
